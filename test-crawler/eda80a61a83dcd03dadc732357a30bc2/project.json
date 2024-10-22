@@ -1,0 +1,14 @@
+{
+    "id": "eda80a61a83dcd03dadc732357a30bc2",
+    "name": "mgn bot test",
+    "crawlerInput": {
+        "url": "https://www.mgnbm.co.uk/",
+        "browser": "chrome-puppeteer",
+        "method": "spiderbot",
+        "limit": 1,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
